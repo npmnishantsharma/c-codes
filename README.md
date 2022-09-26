@@ -1,20 +1,11 @@
-# C++ Examples
+![code-1076533_1920](https://user-images.githubusercontent.com/99231654/192322482-b4400bfb-e49d-46cc-a451-d2daf9152e2e.jpg)
+# Introduction
+> C++ (see plus plus) is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or "C with Classes". The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms.
 
-This is again Apsanishant and I am making c++ examples. You can use these examples to make your own c++ program.
+# About Our Codes
+>We Are Our own Code and working BEst to give you good program
 
->C++ Example:
+# Contribution
 
-```
-#include <iostream.h>
-#include <conio.h>
-void main(){
-clrscr();
-int a;
-cout<<"enter a number";
-cin>>a;
-if(a%7==0 || a%8==0)
-  cout<<"number is divisible by 7 or 8";
-else
-  cout<<"number is not divisible by 7 or 8 ";
-getch();
-}```
+
+
