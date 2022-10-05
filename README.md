@@ -16,5 +16,5 @@
 http://bit.ly/GreenServerofherobrine
 
 License: Apache v2.0
-Made with Care
+
 
